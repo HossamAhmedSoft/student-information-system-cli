@@ -1,0 +1,35 @@
+# Visual Studio / MSVC Build Artifacts
+.vs/
+x64/
+x86/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+SISCLI/x64/
+SISCLI/Debug/
+SISCLI/Release/
+
+# Compiled files and symbols
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.log
+*.recipe
+
+# User-specific developer files
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
